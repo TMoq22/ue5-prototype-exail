@@ -63,6 +63,8 @@ Dans le cadre de ce projet, j'ai tenté d'utiliser l'IA (Gemini) pour concevoir 
 
 Les solutions générées n'étant pas fonctionnelles ou obsolètes par rapport à la version actuelle d'Unreal Engine, j'ai choisi de mettre cette fonctionnalité de côté pour le moment.
 
+J'ai également utilisé Gemini pour corriger et reformuler certaines phrases de ce readme.
+
 ## Galerie
 
 ![Capture d'écran du projet](https://titouanmoquet.fr/public/images/UE5-proto-img1.png)
