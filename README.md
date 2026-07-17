@@ -61,7 +61,7 @@ Essayer de développer un prototype de jeu plus complet avec des réels mécaniq
 
 Dans le cadre de ce projet, j'ai tenté d'utiliser l'IA (Gemini) pour concevoir un système d'interface (UI) dynamique. L'objectif était d'afficher un tutoriel textuel s'adaptant automatiquement au périphérique de l'utilisateur (affichage de la touche Clavier ou Manette selon le dernier input).
 
-Les solutions générées n'étant pas fonctionnelles ou obsolètes par rapport à la version actuelle d'Unreal Engine, j'ai choisi de mettre cette fonctionnalité de côté pour le moment afin de me concentrer sur des mécaniques robustes en Blueprint.
+Les solutions générées n'étant pas fonctionnelles ou obsolètes par rapport à la version actuelle d'Unreal Engine, j'ai choisi de mettre cette fonctionnalité de côté pour le moment.
 
 ## Galerie
 
