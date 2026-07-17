@@ -75,7 +75,8 @@ Les solutions générées n'étant pas fonctionnelles ou obsolètes par rapport 
 ## Crédits
 
 Titouan Moquet - 2026
-Portfolio : [titouanmoquet.fr](https://titouanmoquet.fr)
+
+> Portfolio : [titouanmoquet.fr](https://titouanmoquet.fr)
 
 Sound effect : pixabay.com 
 
