@@ -1,7 +1,7 @@
 # Premier projet Unreal Engine 5
 
-[!IMPORTANT]
-Ce dépôt est uniquement destiné à l'équipe de recrutement d'Exail Lannion.
+> [!IMPORTANT]
+> Ce dépôt est uniquement destiné à l'équipe de recrutement d'Exail Lannion.
 
 ## Sommaire
 
