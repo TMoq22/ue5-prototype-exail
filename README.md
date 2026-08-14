@@ -67,12 +67,12 @@ J'ai également utilisé Gemini pour corriger et reformuler certaines phrases de
 
 ## Galerie
 
-![Capture d'écran du projet](https://titouanmoquet.fr/assets/projects_img/UE5-proto-img1.png)
-![Capture d'écran du projet](https://titouanmoquet.fr/assets/projects_img/UE5-proto-img2.png)
-![Capture d'écran du projet](https://titouanmoquet.fr/assets/projects_img/UE5-proto-img3.png)
-![Capture d'écran du projet](https://titouanmoquet.fr/assets/projects_img/UE5-proto-img4.png)
-![Capture d'écran du projet](https://titouanmoquet.fr/assets/projects_img/UE5-proto-img5.png)
-![Capture d'écran du projet](https://titouanmoquet.fr/assets/projects_img/UE5-proto-img6.png)
+![Capture d'écran du projet](https://titouanmoquet.fr/assets/projects_img/UE5-proto-img1.jpg)
+![Capture d'écran du projet](https://titouanmoquet.fr/assets/projects_img/UE5-proto-img2.jpg)
+![Capture d'écran du projet](https://titouanmoquet.fr/assets/projects_img/UE5-proto-img3.jpg)
+![Capture d'écran du projet](https://titouanmoquet.fr/assets/projects_img/UE5-proto-img4.jpg)
+![Capture d'écran du projet](https://titouanmoquet.fr/assets/projects_img/UE5-proto-img5.jpg)
+![Capture d'écran du projet](https://titouanmoquet.fr/assets/projects_img/UE5-proto-img6.jpg)
 
 ## Crédits
 
